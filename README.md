@@ -1,2 +1,1 @@
-# PrepCourse-Brayan
-Este es un repositorio de prueba PepCourse
+Este Proyecto es una prueba de como crear una repositorio y clonarlo desde GitHub a mi escritorio local
